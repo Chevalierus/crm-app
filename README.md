@@ -5,6 +5,11 @@ Customer Relationship Management app for tracking users
 Stack:
 Html, Css, Native JS
 
+For starting API server need to:
+1. Open console with "Win+R" of user IDE terminal
+2. Go to 'crm-backend' folder 
+3. Use 'node index' command
+4. Start app
 ------------------------------------
 
 Main page of the app
